@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DevelopmentTaskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cities">
+    <Key>
+      <PropertyRef Name="city_code" />
+    </Key>
+    <Property Name="city_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="city_name" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="clients">
+    <Key>
+      <PropertyRef Name="clientId" />
+    </Key>
+    <Property Name="clientId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="hebrew_name" Type="varchar" MaxLength="20" />
+    <Property Name="english_name" Type="varchar" MaxLength="15" />
+    <Property Name="tz" Type="varchar" MaxLength="9" />
+    <Property Name="born_date" Type="date" />
+    <Property Name="cityId" Type="int" />
+    <Property Name="bank" Type="varchar" MaxLength="20" />
+    <Property Name="branch" Type="varchar" MaxLength="20" />
+    <Property Name="account_number" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK__clients__cityId__3F466844">
+    <End Role="cities" Type="Self.cities" Multiplicity="0..1" />
+    <End Role="clients" Type="Self.clients" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="cities">
+        <PropertyRef Name="city_code" />
+      </Principal>
+      <Dependent Role="clients">
+        <PropertyRef Name="cityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DevelopmentTaskModelStoreContainer">
+    <EntitySet Name="cities" EntityType="Self.cities" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="clients" EntityType="Self.clients" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__clients__cityId__3F466844" Association="Self.FK__clients__cityId__3F466844">
+      <End Role="cities" EntitySet="cities" />
+      <End Role="clients" EntitySet="clients" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

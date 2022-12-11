@@ -1,0 +1,1649 @@
+Y:\angular\etig\project\JoBeat\Api\bin\Api.dll.config
+Y:\angular\etig\project\JoBeat\Api\bin\Api.dll
+Y:\angular\etig\project\JoBeat\Api\bin\Api.pdb
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\csc.exe
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\csc.exe.config
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\csc.rsp
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\csi.exe
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\csi.exe.config
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\csi.rsp
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.AppContext.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Console.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.IO.Compression.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.IO.Pipes.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.AccessControl.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.Claims.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.ValueTuple.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Xml.XPath.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\vbc.exe
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\vbc.exe.config
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\vbc.rsp
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\VBCSCompiler.exe
+Y:\angular\etig\project\JoBeat\Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\angular\etig\project\JoBeat\Api\bin\Antlr3.Runtime.dll
+Y:\angular\etig\project\JoBeat\Api\bin\BL.dll
+Y:\angular\etig\project\JoBeat\Api\bin\DTO.dll
+Y:\angular\etig\project\JoBeat\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\angular\etig\project\JoBeat\Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\angular\etig\project\JoBeat\Api\bin\Newtonsoft.Json.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Net.Http.Formatting.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Helpers.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Http.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Http.WebHost.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Mvc.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Optimization.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Razor.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.WebPages.Deployment.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.WebPages.dll
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.WebPages.Razor.dll
+Y:\angular\etig\project\JoBeat\Api\bin\WebGrease.dll
+Y:\angular\etig\project\JoBeat\Api\bin\DAL.dll
+Y:\angular\etig\project\JoBeat\Api\bin\EntityFramework.dll
+Y:\angular\etig\project\JoBeat\Api\bin\BL.pdb
+Y:\angular\etig\project\JoBeat\Api\bin\DTO.pdb
+Y:\angular\etig\project\JoBeat\Api\bin\Newtonsoft.Json.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Net.Http.Formatting.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Helpers.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Http.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Http.WebHost.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Mvc.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Optimization.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.Razor.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.WebPages.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.WebPages.Deployment.xml
+Y:\angular\etig\project\JoBeat\Api\bin\System.Web.WebPages.Razor.xml
+Y:\angular\etig\project\JoBeat\Api\bin\Antlr3.Runtime.pdb
+Y:\angular\etig\project\JoBeat\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\angular\etig\project\JoBeat\Api\bin\DAL.pdb
+Y:\angular\etig\project\JoBeat\Api\bin\DAL.dll.config
+Y:\angular\etig\project\JoBeat\Api\bin\EntityFramework.xml
+Y:\angular\etig\project\JoBeat\Api\obj\Debug\Api.csprojAssemblyReference.cache
+Y:\angular\etig\project\JoBeat\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\JoBeat\Api\obj\Debug\Api.csproj.CopyComplete
+Y:\angular\etig\project\JoBeat\Api\obj\Debug\Api.dll
+Y:\angular\etig\project\JoBeat\Api\obj\Debug\Api.pdb
+Y:\angular\etig\project\JoBest\Api\bin\Api.dll
+Y:\angular\etig\project\JoBest\Api\bin\Api.pdb
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\csc.exe
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\csc.exe.config
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\csc.rsp
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\csi.exe
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\csi.exe.config
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\csi.rsp
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.AppContext.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Console.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.IO.Compression.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.IO.Pipes.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.AccessControl.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.Claims.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.ValueTuple.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Xml.XPath.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\vbc.exe
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\vbc.exe.config
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\vbc.rsp
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\VBCSCompiler.exe
+Y:\angular\etig\project\JoBest\Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\angular\etig\project\JoBest\Api\bin\Antlr3.Runtime.dll
+Y:\angular\etig\project\JoBest\Api\bin\BL.dll
+Y:\angular\etig\project\JoBest\Api\bin\DTO.dll
+Y:\angular\etig\project\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\angular\etig\project\JoBest\Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\angular\etig\project\JoBest\Api\bin\Newtonsoft.Json.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Net.Http.Formatting.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Helpers.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Http.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Http.WebHost.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Mvc.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Optimization.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Razor.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.WebPages.Deployment.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.WebPages.dll
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.WebPages.Razor.dll
+Y:\angular\etig\project\JoBest\Api\bin\WebGrease.dll
+Y:\angular\etig\project\JoBest\Api\bin\DAL.dll
+Y:\angular\etig\project\JoBest\Api\bin\EntityFramework.dll
+Y:\angular\etig\project\JoBest\Api\bin\BL.pdb
+Y:\angular\etig\project\JoBest\Api\bin\DTO.pdb
+Y:\angular\etig\project\JoBest\Api\bin\Newtonsoft.Json.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Net.Http.Formatting.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Helpers.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Http.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Http.WebHost.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Mvc.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Optimization.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.Razor.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.WebPages.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.WebPages.Deployment.xml
+Y:\angular\etig\project\JoBest\Api\bin\System.Web.WebPages.Razor.xml
+Y:\angular\etig\project\JoBest\Api\bin\Antlr3.Runtime.pdb
+Y:\angular\etig\project\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\angular\etig\project\JoBest\Api\bin\DAL.pdb
+Y:\angular\etig\project\JoBest\Api\bin\DAL.dll.config
+Y:\angular\etig\project\JoBest\Api\bin\EntityFramework.xml
+Y:\angular\etig\project\JoBest\Api\obj\Debug\Api.dll
+Y:\angular\etig\project\JoBest\Api\obj\Debug\Api.pdb
+Y:\angular\etig\project\JoBest\Api\bin\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\JoBest\Api\bin\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\JoBest\Api\obj\Debug\Api.csprojAssemblyReference.cache
+Y:\angular\etig\project\JoBest\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\JoBest\Api\obj\Debug\Api.csproj.CopyComplete
+Y:\angular\etig\project\JoBest\Api\bin\Api.dll.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Api.dll.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Api.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Api.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\csc.exe
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\csc.exe.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\csc.rsp
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\csi.exe
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\csi.exe.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\csi.rsp
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.AppContext.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Console.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.IO.Compression.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.IO.Pipes.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.AccessControl.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.Claims.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.ValueTuple.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Xml.XPath.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\vbc.exe
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\vbc.exe.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\vbc.rsp
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\VBCSCompiler.exe
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Antlr3.Runtime.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\BL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\DTO.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\EntityFramework.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Newtonsoft.Json.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Net.Http.Formatting.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Helpers.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Http.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Http.WebHost.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Mvc.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Optimization.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Razor.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.WebPages.Deployment.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.WebPages.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.WebPages.Razor.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\WebGrease.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\DAL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\BL.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\DTO.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\EntityFramework.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Newtonsoft.Json.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Net.Http.Formatting.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Helpers.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Http.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Http.WebHost.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Mvc.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Optimization.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.Razor.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.WebPages.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.WebPages.Deployment.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\System.Web.WebPages.Razor.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Antlr3.Runtime.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\DAL.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\bin\DAL.dll.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\obj\Debug\Api.csprojAssemblyReference.cache
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\obj\Debug\Api.csproj.CopyComplete
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\obj\Debug\Api.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\Api\obj\Debug\Api.pdb
+Y:\angular\etig\project\c#\JoBest\Api\bin\Api.dll.config
+Y:\angular\etig\project\c#\JoBest\Api\bin\Api.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\Api.pdb
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\csc.exe
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\csc.exe.config
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\csc.rsp
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\csi.exe
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\csi.exe.config
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\csi.rsp
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.AppContext.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Console.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.IO.Compression.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.IO.Pipes.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.AccessControl.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.Claims.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.ValueTuple.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Xml.XPath.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\vbc.exe
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\vbc.exe.config
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\vbc.rsp
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\VBCSCompiler.exe
+Y:\angular\etig\project\c#\JoBest\Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\angular\etig\project\c#\JoBest\Api\bin\Antlr3.Runtime.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\BL.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\DTO.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\EntityFramework.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\Newtonsoft.Json.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Net.Http.Formatting.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Helpers.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Http.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Http.WebHost.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Mvc.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Optimization.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Razor.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.WebPages.Deployment.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.WebPages.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.WebPages.Razor.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\WebGrease.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\DAL.dll
+Y:\angular\etig\project\c#\JoBest\Api\bin\BL.pdb
+Y:\angular\etig\project\c#\JoBest\Api\bin\DTO.pdb
+Y:\angular\etig\project\c#\JoBest\Api\bin\EntityFramework.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\Newtonsoft.Json.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Net.Http.Formatting.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Helpers.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Http.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Http.WebHost.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Mvc.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Optimization.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.Razor.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.WebPages.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.WebPages.Deployment.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\System.Web.WebPages.Razor.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\Antlr3.Runtime.pdb
+Y:\angular\etig\project\c#\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\angular\etig\project\c#\JoBest\Api\bin\DAL.pdb
+Y:\angular\etig\project\c#\JoBest\Api\bin\DAL.dll.config
+Y:\angular\etig\project\c#\JoBest\Api\obj\Debug\Api.csprojAssemblyReference.cache
+Y:\angular\etig\project\c#\JoBest\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\c#\JoBest\Api\obj\Debug\Api.csproj.CopyComplete
+Y:\angular\etig\project\c#\JoBest\Api\obj\Debug\Api.dll
+Y:\angular\etig\project\c#\JoBest\Api\obj\Debug\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Api.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Api.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\DTO.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\EntityFramework.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\WebGrease.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\DTO.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\EntityFramework.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\bin\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\obj\Debug\Api.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\Api\obj\Debug\Api.pdb
+E:\פרויקט -8.07\JoBest\Api\bin\Api.dll.config
+E:\פרויקט -8.07\JoBest\Api\bin\Api.dll
+E:\פרויקט -8.07\JoBest\Api\bin\Api.pdb
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\csc.exe
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\csc.exe.config
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\csc.rsp
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\csi.exe
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\csi.exe.config
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\csi.rsp
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.AppContext.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Collections.Immutable.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Console.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.IO.Compression.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.IO.FileSystem.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.IO.Pipes.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.AccessControl.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.Claims.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.ValueTuple.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Xml.XPath.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\vbc.exe
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\vbc.exe.config
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\vbc.rsp
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\VBCSCompiler.exe
+E:\פרויקט -8.07\JoBest\Api\bin\roslyn\VBCSCompiler.exe.config
+E:\פרויקט -8.07\JoBest\Api\bin\Antlr3.Runtime.dll
+E:\פרויקט -8.07\JoBest\Api\bin\BL.dll
+E:\פרויקט -8.07\JoBest\Api\bin\DTO.dll
+E:\פרויקט -8.07\JoBest\Api\bin\EntityFramework.dll
+E:\פרויקט -8.07\JoBest\Api\bin\EntityFramework.SqlServer.dll
+E:\פרויקט -8.07\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\פרויקט -8.07\JoBest\Api\bin\Microsoft.Web.Infrastructure.dll
+E:\פרויקט -8.07\JoBest\Api\bin\Newtonsoft.Json.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Net.Http.Formatting.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Helpers.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Http.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Http.WebHost.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Mvc.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Optimization.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Razor.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.WebPages.Deployment.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.WebPages.dll
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.WebPages.Razor.dll
+E:\פרויקט -8.07\JoBest\Api\bin\WebGrease.dll
+E:\פרויקט -8.07\JoBest\Api\bin\DAL.dll
+E:\פרויקט -8.07\JoBest\Api\bin\BL.pdb
+E:\פרויקט -8.07\JoBest\Api\bin\DTO.pdb
+E:\פרויקט -8.07\JoBest\Api\bin\EntityFramework.xml
+E:\פרויקט -8.07\JoBest\Api\bin\EntityFramework.SqlServer.xml
+E:\פרויקט -8.07\JoBest\Api\bin\Newtonsoft.Json.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Net.Http.Formatting.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Helpers.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Http.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Http.WebHost.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Mvc.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Optimization.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.Razor.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.WebPages.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.WebPages.Deployment.xml
+E:\פרויקט -8.07\JoBest\Api\bin\System.Web.WebPages.Razor.xml
+E:\פרויקט -8.07\JoBest\Api\bin\Antlr3.Runtime.pdb
+E:\פרויקט -8.07\JoBest\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\פרויקט -8.07\JoBest\Api\bin\DAL.pdb
+E:\פרויקט -8.07\JoBest\Api\bin\DAL.dll.config
+E:\פרויקט -8.07\JoBest\Api\obj\Debug\Api.csprojAssemblyReference.cache
+E:\פרויקט -8.07\JoBest\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\פרויקט -8.07\JoBest\Api\obj\Debug\Api.csproj.CopyComplete
+E:\פרויקט -8.07\JoBest\Api\obj\Debug\Api.dll
+E:\פרויקט -8.07\JoBest\Api\obj\Debug\Api.pdb
+E:\13.07\JoBest-server_side\Api\bin\Api.dll.config
+E:\13.07\JoBest-server_side\Api\bin\Api.dll
+E:\13.07\JoBest-server_side\Api\bin\Api.pdb
+E:\13.07\JoBest-server_side\Api\bin\roslyn\csc.exe
+E:\13.07\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+E:\13.07\JoBest-server_side\Api\bin\roslyn\csc.rsp
+E:\13.07\JoBest-server_side\Api\bin\roslyn\csi.exe
+E:\13.07\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+E:\13.07\JoBest-server_side\Api\bin\roslyn\csi.rsp
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\13.07\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\13.07\JoBest-server_side\Api\bin\roslyn\vbc.exe
+E:\13.07\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+E:\13.07\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+E:\13.07\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+E:\13.07\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+E:\13.07\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+E:\13.07\JoBest-server_side\Api\bin\BL.dll
+E:\13.07\JoBest-server_side\Api\bin\DTO.dll
+E:\13.07\JoBest-server_side\Api\bin\EntityFramework.dll
+E:\13.07\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+E:\13.07\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\13.07\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+E:\13.07\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Http.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Razor.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+E:\13.07\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+E:\13.07\JoBest-server_side\Api\bin\WebGrease.dll
+E:\13.07\JoBest-server_side\Api\bin\DAL.dll
+E:\13.07\JoBest-server_side\Api\bin\BL.pdb
+E:\13.07\JoBest-server_side\Api\bin\DTO.pdb
+E:\13.07\JoBest-server_side\Api\bin\EntityFramework.xml
+E:\13.07\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+E:\13.07\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Http.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.Razor.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+E:\13.07\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+E:\13.07\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+E:\13.07\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\13.07\JoBest-server_side\Api\bin\DAL.pdb
+E:\13.07\JoBest-server_side\Api\bin\DAL.dll.config
+E:\13.07\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+E:\13.07\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\13.07\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+E:\13.07\JoBest-server_side\Api\obj\Debug\Api.dll
+E:\13.07\JoBest-server_side\Api\obj\Debug\Api.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\Api\obj\Debug\Api.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\Api\obj\Debug\Api.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Api.dll.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Api.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Api.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\csc.exe
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\csc.rsp
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\csi.exe
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\csi.rsp
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\vbc.exe
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\BL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\DTO.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\EntityFramework.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Http.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Razor.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\WebGrease.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\DAL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\BL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\DTO.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\EntityFramework.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Http.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.Razor.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\DAL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\bin\DAL.dll.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\obj\Debug\Api.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Api.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Api.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\DTO.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\EntityFramework.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\WebGrease.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\DTO.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\EntityFramework.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\obj\Debug\Api.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\obj\Debug\Api.pdb
+E:\21.07\JoBest-server_side\Api\bin\Api.dll.config
+E:\21.07\JoBest-server_side\Api\bin\Api.dll
+E:\21.07\JoBest-server_side\Api\bin\Api.pdb
+E:\21.07\JoBest-server_side\Api\bin\roslyn\csc.exe
+E:\21.07\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+E:\21.07\JoBest-server_side\Api\bin\roslyn\csc.rsp
+E:\21.07\JoBest-server_side\Api\bin\roslyn\csi.exe
+E:\21.07\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+E:\21.07\JoBest-server_side\Api\bin\roslyn\csi.rsp
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\21.07\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\21.07\JoBest-server_side\Api\bin\roslyn\vbc.exe
+E:\21.07\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+E:\21.07\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+E:\21.07\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+E:\21.07\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+E:\21.07\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+E:\21.07\JoBest-server_side\Api\bin\BL.dll
+E:\21.07\JoBest-server_side\Api\bin\DTO.dll
+E:\21.07\JoBest-server_side\Api\bin\EntityFramework.dll
+E:\21.07\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+E:\21.07\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\21.07\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+E:\21.07\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Http.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Razor.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+E:\21.07\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+E:\21.07\JoBest-server_side\Api\bin\WebGrease.dll
+E:\21.07\JoBest-server_side\Api\bin\DAL.dll
+E:\21.07\JoBest-server_side\Api\bin\BL.pdb
+E:\21.07\JoBest-server_side\Api\bin\DTO.pdb
+E:\21.07\JoBest-server_side\Api\bin\EntityFramework.xml
+E:\21.07\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+E:\21.07\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Http.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.Razor.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+E:\21.07\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+E:\21.07\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+E:\21.07\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\21.07\JoBest-server_side\Api\bin\DAL.pdb
+E:\21.07\JoBest-server_side\Api\bin\DAL.dll.config
+E:\21.07\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+E:\21.07\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\21.07\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+E:\21.07\JoBest-server_side\Api\obj\Debug\Api.dll
+E:\21.07\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Api.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Api.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Api.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\csc.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\csi.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\BL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\DTO.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\EntityFramework.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Http.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\WebGrease.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\BL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\DTO.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\EntityFramework.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Http.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\obj\Debug\Api.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\obj\Debug\Api.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Api.dll.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Api.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Api.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\csc.exe
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\csc.rsp
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\csi.exe
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\csi.rsp
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\vbc.exe
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\BL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\DTO.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\EntityFramework.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Http.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Razor.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\WebGrease.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\DAL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\BL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\DTO.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\EntityFramework.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Http.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.Razor.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\DAL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\bin\DAL.dll.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\obj\Debug\Api.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Api.dll.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Api.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Api.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\csc.exe
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\csi.exe
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\BL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\DTO.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\EntityFramework.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Http.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\WebGrease.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\DAL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\BL.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\DTO.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\EntityFramework.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Http.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\bin\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\obj\Debug\Api.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Api.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Api.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\DTO.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\WebGrease.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\DTO.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\bin\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Api.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Api.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Api.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csc.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csi.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\BL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\DTO.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\WebGrease.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\BL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\DTO.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\bin\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Auth.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Core.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.PlatformServices.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Auth.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Auth.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Core.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\Api\bin\Google.Apis.Core.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Api.dll.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Api.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Api.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\csc.exe
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\csi.exe
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\BL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\DTO.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\EntityFramework.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Auth.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Core.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.PlatformServices.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Http.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Razor.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\WebGrease.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\DAL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\BL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\DTO.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\EntityFramework.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Auth.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Auth.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Core.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Google.Apis.Core.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Http.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.Razor.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\DAL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\bin\DAL.dll.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\obj\Debug\Api.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Auth.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Core.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Auth.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Core.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\Api\bin\Google.Apis.Core.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Api.dll.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Api.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Api.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\csc.exe
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\csc.exe.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\csc.rsp
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\csi.exe
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\csi.exe.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\csi.rsp
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.AppContext.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Collections.Immutable.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Console.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.IO.Compression.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.IO.Pipes.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.AccessControl.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.Claims.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.ValueTuple.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\vbc.exe
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\vbc.exe.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\vbc.rsp
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\roslyn\VBCSCompiler.exe.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Antlr3.Runtime.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\BL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\DTO.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\EntityFramework.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\EntityFramework.SqlServer.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Auth.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Auth.PlatformServices.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Core.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.PlatformServices.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Microsoft.Web.Infrastructure.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Newtonsoft.Json.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Net.Http.Formatting.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Helpers.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Http.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Http.WebHost.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Mvc.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Optimization.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Razor.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.WebPages.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\WebGrease.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\DAL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\BL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\DTO.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\EntityFramework.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\EntityFramework.SqlServer.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Auth.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Auth.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Calendar.v3.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Core.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Google.Apis.Core.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Newtonsoft.Json.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Net.Http.Formatting.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Helpers.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Http.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Http.WebHost.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Mvc.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Optimization.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.Razor.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.WebPages.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.WebPages.Deployment.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\System.Web.WebPages.Razor.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Antlr3.Runtime.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\DAL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\bin\DAL.dll.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\obj\Debug\Api.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\obj\Debug\Api.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\Api\obj\Debug\Api.pdb
+C:\Users\User\Desktop\exelence\exelence-server_side\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exelence\exelence-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exelence\exelence-server_side\Api\obj\Debug\Api.dll
+C:\Users\User\Desktop\exelence\exelence-server_side\Api\obj\Debug\Api.pdb
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\Api\obj\Debug\Api.dll
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\Api\obj\Debug\Api.pdb
+E:\exelence-server_side\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+E:\exelence-server_side\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\exelence-server_side\Api\obj\Debug\Api.dll
+E:\exelence-server_side\Api\obj\Debug\Api.pdb

@@ -1,0 +1,237 @@
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\DAL.dll
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\EntityFramework.dll
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\JoBeat\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\JoBeat\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\angular\etig\project\JoBeat\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\JoBeat\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\angular\etig\project\JoBeat\DAL\obj\Debug\DAL.dll
+Y:\angular\etig\project\JoBeat\DAL\obj\Debug\DAL.pdb
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\DAL.dll
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\EntityFramework.dll
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\JoBest\DAL\obj\Debug\DAL.dll
+Y:\angular\etig\project\JoBest\DAL\obj\Debug\DAL.pdb
+Y:\angular\etig\project\JoBest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\angular\etig\project\JoBest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\JoBest\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\DAL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\EntityFramework.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\obj\Debug\DAL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\DAL\obj\Debug\DAL.pdb
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\DAL.dll
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\EntityFramework.dll
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\c#\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\c#\JoBest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\c#\JoBest\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\angular\etig\project\c#\JoBest\DAL\obj\Debug\DAL.dll
+Y:\angular\etig\project\c#\JoBest\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\DAL.dll.config
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\DAL.dll
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\DAL.pdb
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\EntityFramework.dll
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\EntityFramework.xml
+E:\פרויקט -8.07\JoBest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\פרויקט -8.07\JoBest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\פרויקט -8.07\JoBest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\פרויקט -8.07\JoBest\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\פרויקט -8.07\JoBest\DAL\obj\Debug\DAL.dll
+E:\פרויקט -8.07\JoBest\DAL\obj\Debug\DAL.pdb
+E:\13.07\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+E:\13.07\JoBest-server_side\DAL\bin\Debug\DAL.dll
+E:\13.07\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+E:\13.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+E:\13.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\13.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+E:\13.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\13.07\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\13.07\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\13.07\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\13.07\JoBest-server_side\DAL\obj\Debug\DAL.dll
+E:\13.07\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\DAL.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\obj\Debug\DAL.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\DAL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\obj\Debug\DAL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+E:\21.07\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+E:\21.07\JoBest-server_side\DAL\bin\Debug\DAL.dll
+E:\21.07\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+E:\21.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+E:\21.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\21.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+E:\21.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\21.07\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\21.07\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\21.07\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\21.07\JoBest-server_side\DAL\obj\Debug\DAL.dll
+E:\21.07\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\DAL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\obj\Debug\DAL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\DAL.dll.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\DAL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\DAL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\EntityFramework.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\EntityFramework.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\obj\Debug\DAL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\exelence\exelence-server_side\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\DAL\obj\Debug\DAL.pdb

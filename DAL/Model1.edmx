@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DevelopmentTaskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="cities">
+          <Key>
+            <PropertyRef Name="city_code" />
+          </Key>
+          <Property Name="city_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="city_name" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="clients">
+          <Key>
+            <PropertyRef Name="clientId" />
+          </Key>
+          <Property Name="clientId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="hebrew_name" Type="varchar" MaxLength="20" />
+          <Property Name="english_name" Type="varchar" MaxLength="15" />
+          <Property Name="tz" Type="varchar" MaxLength="9" />
+          <Property Name="born_date" Type="date" />
+          <Property Name="cityId" Type="int" />
+          <Property Name="bank" Type="varchar" MaxLength="20" />
+          <Property Name="branch" Type="varchar" MaxLength="20" />
+          <Property Name="account_number" Type="varchar" MaxLength="10" />
+        </EntityType>
+        <Association Name="FK__clients__cityId__3F466844">
+          <End Role="cities" Type="Self.cities" Multiplicity="0..1" />
+          <End Role="clients" Type="Self.clients" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="cities">
+              <PropertyRef Name="city_code" />
+            </Principal>
+            <Dependent Role="clients">
+              <PropertyRef Name="cityId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DevelopmentTaskModelStoreContainer">
+          <EntitySet Name="cities" EntityType="Self.cities" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="clients" EntityType="Self.clients" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__clients__cityId__3F466844" Association="Self.FK__clients__cityId__3F466844">
+            <End Role="cities" EntitySet="cities" />
+            <End Role="clients" EntitySet="clients" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DevelopmentTaskModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="cities">
+          <Key>
+            <PropertyRef Name="city_code" />
+          </Key>
+          <Property Name="city_code" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="city_name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="clients" Relationship="Self.FK__clients__cityId__3F466844" FromRole="cities" ToRole="clients" />
+        </EntityType>
+        <EntityType Name="clients">
+          <Key>
+            <PropertyRef Name="clientId" />
+          </Key>
+          <Property Name="clientId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="hebrew_name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="english_name" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="tz" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+          <Property Name="born_date" Type="DateTime" Precision="0" />
+          <Property Name="cityId" Type="Int32" />
+          <Property Name="bank" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="branch" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="account_number" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="cities" Relationship="Self.FK__clients__cityId__3F466844" FromRole="clients" ToRole="cities" />
+        </EntityType>
+        <Association Name="FK__clients__cityId__3F466844">
+          <End Role="cities" Type="Self.cities" Multiplicity="0..1" />
+          <End Role="clients" Type="Self.clients" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="cities">
+              <PropertyRef Name="city_code" />
+            </Principal>
+            <Dependent Role="clients">
+              <PropertyRef Name="cityId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DevelopmentTaskEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="cities" EntityType="Self.cities" />
+          <EntitySet Name="clients" EntityType="Self.clients" />
+          <AssociationSet Name="FK__clients__cityId__3F466844" Association="Self.FK__clients__cityId__3F466844">
+            <End Role="cities" EntitySet="cities" />
+            <End Role="clients" EntitySet="clients" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DevelopmentTaskModelStoreContainer" CdmEntityContainer="DevelopmentTaskEntities">
+          <EntitySetMapping Name="cities">
+            <EntityTypeMapping TypeName="DevelopmentTaskModel.cities">
+              <MappingFragment StoreEntitySet="cities">
+                <ScalarProperty Name="city_code" ColumnName="city_code" />
+                <ScalarProperty Name="city_name" ColumnName="city_name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="clients">
+            <EntityTypeMapping TypeName="DevelopmentTaskModel.clients">
+              <MappingFragment StoreEntitySet="clients">
+                <ScalarProperty Name="clientId" ColumnName="clientId" />
+                <ScalarProperty Name="hebrew_name" ColumnName="hebrew_name" />
+                <ScalarProperty Name="english_name" ColumnName="english_name" />
+                <ScalarProperty Name="tz" ColumnName="tz" />
+                <ScalarProperty Name="born_date" ColumnName="born_date" />
+                <ScalarProperty Name="cityId" ColumnName="cityId" />
+                <ScalarProperty Name="bank" ColumnName="bank" />
+                <ScalarProperty Name="branch" ColumnName="branch" />
+                <ScalarProperty Name="account_number" ColumnName="account_number" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

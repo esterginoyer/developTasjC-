@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="db_joBestModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Domains">
+    <Key>
+      <PropertyRef Name="IdDomain" />
+    </Key>
+    <Property Name="IdDomain" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameDomain" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IdDomainParent" Type="Int32" />
+    <NavigationProperty Name="DomainsToWorker" Relationship="Self.FK_DomainsToWorker_Domains1" FromRole="Domains" ToRole="DomainsToWorker" />
+  </EntityType>
+  <EntityType Name="DomainsToWorker">
+    <Key>
+      <PropertyRef Name="IdDomainToWorker" />
+    </Key>
+    <Property Name="IdDomainToWorker" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdWorker" Type="Int32" Nullable="false" />
+    <Property Name="IdDomain" Type="Int32" Nullable="false" />
+    <Property Name="ScopeJob" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Education" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Experience" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CVFile" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Domains" Relationship="Self.FK_DomainsToWorker_Domains1" FromRole="DomainsToWorker" ToRole="Domains" />
+    <NavigationProperty Name="Worker" Relationship="Self.FK_DomainsToWorker_Worker" FromRole="DomainsToWorker" ToRole="Worker" />
+  </EntityType>
+  <EntityType Name="Employers">
+    <Key>
+      <PropertyRef Name="IdEmployer" />
+    </Key>
+    <Property Name="IdEmployer" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameBussines" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IdConfirmation" Type="Int32" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AuthorziedDealer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="EmployerTests" Relationship="Self.FK_EmployerTests_Employers" FromRole="Employers" ToRole="EmployerTests" />
+    <NavigationProperty Name="Positions" Relationship="Self.FK_Positions_Employers" FromRole="Employers" ToRole="Positions" />
+    <NavigationProperty Name="Step" Relationship="Self.FK_Step_Employers" FromRole="Employers" ToRole="Step" />
+  </EntityType>
+  <EntityType Name="EmployerTestAnswers">
+    <Key>
+      <PropertyRef Name="IdAnswers" />
+    </Key>
+    <Property Name="IdAnswers" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdQuestion" Type="Int32" Nullable="false" />
+    <Property Name="Answer" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IsAnswer" Type="Boolean" />
+    <NavigationProperty Name="EmployerTestQuestion" Relationship="Self.FK_EmployerTestAnswers_EmployerTestQuestion" FromRole="EmployerTestAnswers" ToRole="EmployerTestQuestion" />
+  </EntityType>
+  <EntityType Name="EmployerTestQuestion">
+    <Key>
+      <PropertyRef Name="IdQuestion" />
+    </Key>
+    <Property Name="IdQuestion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IdEmployerTest" Type="Int32" />
+    <NavigationProperty Name="EmployerTestAnswers" Relationship="Self.FK_EmployerTestAnswers_EmployerTestQuestion" FromRole="EmployerTestQuestion" ToRole="EmployerTestAnswers" />
+    <NavigationProperty Name="EmployerTests" Relationship="Self.FK_EmployerTestQuestion_EmployerTests" FromRole="EmployerTestQuestion" ToRole="EmployerTests" />
+  </EntityType>
+  <EntityType Name="EmployerTests">
+    <Key>
+      <PropertyRef Name="IdEmployerTest" />
+    </Key>
+    <Property Name="IdEmployerTest" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdEmployer" Type="Int32" Nullable="false" />
+    <Property Name="NameTest" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IdDomain" Type="Int32" Nullable="false" />
+    <Property Name="StartDate" Type="DateTime" Precision="0" />
+    <Property Name="EndDate" Type="DateTime" Precision="0" />
+    <Property Name="Time" Type="Int32" />
+    <NavigationProperty Name="Employers" Relationship="Self.FK_EmployerTests_Employers" FromRole="EmployerTests" ToRole="Employers" />
+    <NavigationProperty Name="EmployerTestQuestion" Relationship="Self.FK_EmployerTestQuestion_EmployerTests" FromRole="EmployerTests" ToRole="EmployerTestQuestion" />
+  </EntityType>
+  <EntityType Name="Positions">
+    <Key>
+      <PropertyRef Name="IdPositions" />
+    </Key>
+    <Property Name="IdPositions" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdEmployer" Type="Int32" />
+    <Property Name="NamePosition" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="Relevant" Type="Boolean" />
+    <NavigationProperty Name="Employers" Relationship="Self.FK_Positions_Employers" FromRole="Positions" ToRole="Employers" />
+    <NavigationProperty Name="Step" Relationship="Self.FK_Step_Positions" FromRole="Positions" ToRole="Step" />
+    <NavigationProperty Name="WorkerSuitable" Relationship="Self.FK_WorkerSuitable_Positions" FromRole="Positions" ToRole="WorkerSuitable" />
+  </EntityType>
+  <EntityType Name="PsicometryAnswers">
+    <Key>
+      <PropertyRef Name="IdAnswers" />
+    </Key>
+    <Property Name="IdAnswers" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdQuestion" Type="Int32" Nullable="false" />
+    <Property Name="Answer" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IsAnswer" Type="Boolean" />
+    <NavigationProperty Name="PsicometryQuestion" Relationship="Self.FK_PsicometryAnswers_PsicometryQuestion" FromRole="PsicometryAnswers" ToRole="PsicometryQuestion" />
+  </EntityType>
+  <EntityType Name="PsicometryQuestion">
+    <Key>
+      <PropertyRef Name="IdQuestion" />
+    </Key>
+    <Property Name="IdQuestion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PsicometryAnswers" Relationship="Self.FK_PsicometryAnswers_PsicometryQuestion" FromRole="PsicometryQuestion" ToRole="PsicometryAnswers" />
+  </EntityType>
+  <EntityType Name="PsicometryTest">
+    <Key>
+      <PropertyRef Name="IdPsicometryTest" />
+    </Key>
+    <Property Name="IdPsicometryTest" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdWorker" Type="Int32" Nullable="false" />
+    <Property Name="Mark" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Worker" Relationship="Self.FK_PsicometryTest_Worker" FromRole="PsicometryTest" ToRole="Worker" />
+  </EntityType>
+  <EntityType Name="Step">
+    <Key>
+      <PropertyRef Name="IdStep" />
+    </Key>
+    <Property Name="IdStep" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdEmployer" Type="Int32" />
+    <Property Name="IdWorker" Type="Int32" />
+    <Property Name="IdPosition" Type="Int32" />
+    <Property Name="Step1" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="SummaryStep" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Employers" Relationship="Self.FK_Step_Employers" FromRole="Step" ToRole="Employers" />
+    <NavigationProperty Name="Positions" Relationship="Self.FK_Step_Positions" FromRole="Step" ToRole="Positions" />
+    <NavigationProperty Name="Worker" Relationship="Self.FK_Step_Worker" FromRole="Step" ToRole="Worker" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Worker">
+    <Key>
+      <PropertyRef Name="IdWorker" />
+    </Key>
+    <Property Name="IdWorker" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DateBorn" Type="DateTime" Precision="0" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DateRegistration" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="DomainsToWorker" Relationship="Self.FK_DomainsToWorker_Worker" FromRole="Worker" ToRole="DomainsToWorker" />
+    <NavigationProperty Name="PsicometryTest" Relationship="Self.FK_PsicometryTest_Worker" FromRole="Worker" ToRole="PsicometryTest" />
+    <NavigationProperty Name="Step" Relationship="Self.FK_Step_Worker" FromRole="Worker" ToRole="Step" />
+    <NavigationProperty Name="WorkerSuitable" Relationship="Self.FK_WorkerSuitable_Worker" FromRole="Worker" ToRole="WorkerSuitable" />
+  </EntityType>
+  <EntityType Name="WorkerSuitable">
+    <Key>
+      <PropertyRef Name="IdSuitable" />
+    </Key>
+    <Property Name="IdSuitable" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdWorker" Type="Int32" />
+    <Property Name="IdPosition" Type="Int32" />
+    <Property Name="IsRelevant" Type="Boolean" />
+    <NavigationProperty Name="Positions" Relationship="Self.FK_WorkerSuitable_Positions" FromRole="WorkerSuitable" ToRole="Positions" />
+    <NavigationProperty Name="Worker" Relationship="Self.FK_WorkerSuitable_Worker" FromRole="WorkerSuitable" ToRole="Worker" />
+  </EntityType>
+  <EntityType Name="WorkerTest">
+    <Key>
+      <PropertyRef Name="IdWorkerTest" />
+    </Key>
+    <Property Name="IdWorkerTest" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdWorker" Type="Int32" Nullable="false" />
+    <Property Name="IdEmployerTest" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="Mark" Type="Int32" />
+  </EntityType>
+  <Association Name="FK_DomainsToWorker_Domains1">
+    <End Role="Domains" Type="Self.Domains" Multiplicity="1" />
+    <End Role="DomainsToWorker" Type="Self.DomainsToWorker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Domains">
+        <PropertyRef Name="IdDomain" />
+      </Principal>
+      <Dependent Role="DomainsToWorker">
+        <PropertyRef Name="IdDomain" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DomainsToWorker_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+    <End Role="DomainsToWorker" Type="Self.DomainsToWorker" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="IdWorker" />
+      </Principal>
+      <Dependent Role="DomainsToWorker">
+        <PropertyRef Name="IdWorker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmployerTests_Employers">
+    <End Role="Employers" Type="Self.Employers" Multiplicity="1" />
+    <End Role="EmployerTests" Type="Self.EmployerTests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employers">
+        <PropertyRef Name="IdEmployer" />
+      </Principal>
+      <Dependent Role="EmployerTests">
+        <PropertyRef Name="IdEmployer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Positions_Employers">
+    <End Role="Employers" Type="Self.Employers" Multiplicity="0..1" />
+    <End Role="Positions" Type="Self.Positions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employers">
+        <PropertyRef Name="IdEmployer" />
+      </Principal>
+      <Dependent Role="Positions">
+        <PropertyRef Name="IdEmployer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Step_Employers">
+    <End Role="Employers" Type="Self.Employers" Multiplicity="0..1" />
+    <End Role="Step" Type="Self.Step" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employers">
+        <PropertyRef Name="IdEmployer" />
+      </Principal>
+      <Dependent Role="Step">
+        <PropertyRef Name="IdEmployer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmployerTestAnswers_EmployerTestQuestion">
+    <End Role="EmployerTestQuestion" Type="Self.EmployerTestQuestion" Multiplicity="1" />
+    <End Role="EmployerTestAnswers" Type="Self.EmployerTestAnswers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EmployerTestQuestion">
+        <PropertyRef Name="IdQuestion" />
+      </Principal>
+      <Dependent Role="EmployerTestAnswers">
+        <PropertyRef Name="IdQuestion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmployerTestQuestion_EmployerTests">
+    <End Role="EmployerTests" Type="Self.EmployerTests" Multiplicity="0..1" />
+    <End Role="EmployerTestQuestion" Type="Self.EmployerTestQuestion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EmployerTests">
+        <PropertyRef Name="IdEmployerTest" />
+      </Principal>
+      <Dependent Role="EmployerTestQuestion">
+        <PropertyRef Name="IdEmployerTest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Step_Positions">
+    <End Role="Positions" Type="Self.Positions" Multiplicity="0..1" />
+    <End Role="Step" Type="Self.Step" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Positions">
+        <PropertyRef Name="IdPositions" />
+      </Principal>
+      <Dependent Role="Step">
+        <PropertyRef Name="IdPosition" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkerSuitable_Positions">
+    <End Role="Positions" Type="Self.Positions" Multiplicity="0..1" />
+    <End Role="WorkerSuitable" Type="Self.WorkerSuitable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Positions">
+        <PropertyRef Name="IdPositions" />
+      </Principal>
+      <Dependent Role="WorkerSuitable">
+        <PropertyRef Name="IdPosition" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PsicometryAnswers_PsicometryQuestion">
+    <End Role="PsicometryQuestion" Type="Self.PsicometryQuestion" Multiplicity="1" />
+    <End Role="PsicometryAnswers" Type="Self.PsicometryAnswers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PsicometryQuestion">
+        <PropertyRef Name="IdQuestion" />
+      </Principal>
+      <Dependent Role="PsicometryAnswers">
+        <PropertyRef Name="IdQuestion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PsicometryTest_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+    <End Role="PsicometryTest" Type="Self.PsicometryTest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="IdWorker" />
+      </Principal>
+      <Dependent Role="PsicometryTest">
+        <PropertyRef Name="IdWorker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Step_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="0..1" />
+    <End Role="Step" Type="Self.Step" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="IdWorker" />
+      </Principal>
+      <Dependent Role="Step">
+        <PropertyRef Name="IdWorker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkerSuitable_Worker">
+    <End Role="Worker" Type="Self.Worker" Multiplicity="0..1" />
+    <End Role="WorkerSuitable" Type="Self.WorkerSuitable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Worker">
+        <PropertyRef Name="IdWorker" />
+      </Principal>
+      <Dependent Role="WorkerSuitable">
+        <PropertyRef Name="IdWorker" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="db_joBestEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Domains" EntityType="Self.Domains" />
+    <EntitySet Name="DomainsToWorker" EntityType="Self.DomainsToWorker" />
+    <EntitySet Name="Employers" EntityType="Self.Employers" />
+    <EntitySet Name="EmployerTestAnswers" EntityType="Self.EmployerTestAnswers" />
+    <EntitySet Name="EmployerTestQuestion" EntityType="Self.EmployerTestQuestion" />
+    <EntitySet Name="EmployerTests" EntityType="Self.EmployerTests" />
+    <EntitySet Name="Positions" EntityType="Self.Positions" />
+    <EntitySet Name="PsicometryAnswers" EntityType="Self.PsicometryAnswers" />
+    <EntitySet Name="PsicometryQuestion" EntityType="Self.PsicometryQuestion" />
+    <EntitySet Name="PsicometryTest" EntityType="Self.PsicometryTest" />
+    <EntitySet Name="Step" EntityType="Self.Step" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Worker" EntityType="Self.Worker" />
+    <EntitySet Name="WorkerSuitable" EntityType="Self.WorkerSuitable" />
+    <EntitySet Name="WorkerTest" EntityType="Self.WorkerTest" />
+    <AssociationSet Name="FK_DomainsToWorker_Domains1" Association="Self.FK_DomainsToWorker_Domains1">
+      <End Role="Domains" EntitySet="Domains" />
+      <End Role="DomainsToWorker" EntitySet="DomainsToWorker" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DomainsToWorker_Worker" Association="Self.FK_DomainsToWorker_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="DomainsToWorker" EntitySet="DomainsToWorker" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmployerTests_Employers" Association="Self.FK_EmployerTests_Employers">
+      <End Role="Employers" EntitySet="Employers" />
+      <End Role="EmployerTests" EntitySet="EmployerTests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Positions_Employers" Association="Self.FK_Positions_Employers">
+      <End Role="Employers" EntitySet="Employers" />
+      <End Role="Positions" EntitySet="Positions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Step_Employers" Association="Self.FK_Step_Employers">
+      <End Role="Employers" EntitySet="Employers" />
+      <End Role="Step" EntitySet="Step" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmployerTestAnswers_EmployerTestQuestion" Association="Self.FK_EmployerTestAnswers_EmployerTestQuestion">
+      <End Role="EmployerTestQuestion" EntitySet="EmployerTestQuestion" />
+      <End Role="EmployerTestAnswers" EntitySet="EmployerTestAnswers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmployerTestQuestion_EmployerTests" Association="Self.FK_EmployerTestQuestion_EmployerTests">
+      <End Role="EmployerTests" EntitySet="EmployerTests" />
+      <End Role="EmployerTestQuestion" EntitySet="EmployerTestQuestion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Step_Positions" Association="Self.FK_Step_Positions">
+      <End Role="Positions" EntitySet="Positions" />
+      <End Role="Step" EntitySet="Step" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkerSuitable_Positions" Association="Self.FK_WorkerSuitable_Positions">
+      <End Role="Positions" EntitySet="Positions" />
+      <End Role="WorkerSuitable" EntitySet="WorkerSuitable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PsicometryAnswers_PsicometryQuestion" Association="Self.FK_PsicometryAnswers_PsicometryQuestion">
+      <End Role="PsicometryQuestion" EntitySet="PsicometryQuestion" />
+      <End Role="PsicometryAnswers" EntitySet="PsicometryAnswers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PsicometryTest_Worker" Association="Self.FK_PsicometryTest_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="PsicometryTest" EntitySet="PsicometryTest" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Step_Worker" Association="Self.FK_Step_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="Step" EntitySet="Step" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkerSuitable_Worker" Association="Self.FK_WorkerSuitable_Worker">
+      <End Role="Worker" EntitySet="Worker" />
+      <End Role="WorkerSuitable" EntitySet="WorkerSuitable" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

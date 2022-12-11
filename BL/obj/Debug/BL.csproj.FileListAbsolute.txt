@@ -1,0 +1,232 @@
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\BL.dll
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\BL.pdb
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\DAL.dll
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\DTO.dll
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\EntityFramework.dll
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\DTO.pdb
+Y:\angular\etig\project\JoBeat\BL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\JoBeat\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\angular\etig\project\JoBeat\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\JoBeat\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\angular\etig\project\JoBeat\BL\obj\Debug\BL.dll
+Y:\angular\etig\project\JoBeat\BL\obj\Debug\BL.pdb
+Y:\angular\etig\project\JoBest\BL\bin\Debug\BL.dll
+Y:\angular\etig\project\JoBest\BL\bin\Debug\BL.pdb
+Y:\angular\etig\project\JoBest\BL\bin\Debug\DAL.dll
+Y:\angular\etig\project\JoBest\BL\bin\Debug\DTO.dll
+Y:\angular\etig\project\JoBest\BL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\JoBest\BL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\JoBest\BL\bin\Debug\DTO.pdb
+Y:\angular\etig\project\JoBest\BL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\JoBest\BL\obj\Debug\BL.dll
+Y:\angular\etig\project\JoBest\BL\obj\Debug\BL.pdb
+Y:\angular\etig\project\JoBest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\angular\etig\project\JoBest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\JoBest\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\BL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\BL.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\DAL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\DTO.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\DTO.pdb
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\bin\Debug\EntityFramework.xml
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\obj\Debug\BL.dll
+Y:\angular\etig\project\גרסאות קודמות\JoBest\BL\obj\Debug\BL.pdb
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\BL.dll
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\BL.pdb
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\DAL.dll
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\DTO.dll
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\c#\JoBest\BL\bin\Debug\DTO.pdb
+Y:\angular\etig\project\c#\JoBest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\angular\etig\project\c#\JoBest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\c#\JoBest\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\angular\etig\project\c#\JoBest\BL\obj\Debug\BL.dll
+Y:\angular\etig\project\c#\JoBest\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest\BL\obj\Debug\BL.pdb
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\BL.dll
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\BL.pdb
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\DAL.dll
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\DTO.dll
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\DAL.pdb
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\DAL.dll.config
+E:\פרויקט -8.07\JoBest\BL\bin\Debug\DTO.pdb
+E:\פרויקט -8.07\JoBest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\פרויקט -8.07\JoBest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\פרויקט -8.07\JoBest\BL\obj\Debug\BL.csproj.CopyComplete
+E:\פרויקט -8.07\JoBest\BL\obj\Debug\BL.dll
+E:\פרויקט -8.07\JoBest\BL\obj\Debug\BL.pdb
+E:\13.07\JoBest-server_side\BL\bin\Debug\BL.dll
+E:\13.07\JoBest-server_side\BL\bin\Debug\BL.pdb
+E:\13.07\JoBest-server_side\BL\bin\Debug\DAL.dll
+E:\13.07\JoBest-server_side\BL\bin\Debug\DTO.dll
+E:\13.07\JoBest-server_side\BL\bin\Debug\DAL.pdb
+E:\13.07\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+E:\13.07\JoBest-server_side\BL\bin\Debug\DTO.pdb
+E:\13.07\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\13.07\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\13.07\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+E:\13.07\JoBest-server_side\BL\obj\Debug\BL.dll
+E:\13.07\JoBest-server_side\BL\obj\Debug\BL.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\BL.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\BL.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\DAL.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\DTO.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\DAL.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\bin\Debug\DTO.pdb
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\obj\Debug\BL.dll
+E:\פרויקט גמר joBest\C#\‏‏תיקיה חדשה\JoBest-server_side\BL\obj\Debug\BL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\BL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\BL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\DAL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\DTO.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\DAL.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\bin\Debug\DTO.pdb
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\obj\Debug\BL.dll
+E:\פרויקט גמר joBest\C#\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\BL\obj\Debug\BL.pdb
+E:\21.07\JoBest-server_side\BL\bin\Debug\BL.dll
+E:\21.07\JoBest-server_side\BL\bin\Debug\BL.pdb
+E:\21.07\JoBest-server_side\BL\bin\Debug\DAL.dll
+E:\21.07\JoBest-server_side\BL\bin\Debug\DTO.dll
+E:\21.07\JoBest-server_side\BL\bin\Debug\DAL.pdb
+E:\21.07\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+E:\21.07\JoBest-server_side\BL\bin\Debug\DTO.pdb
+E:\21.07\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\21.07\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\21.07\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+E:\21.07\JoBest-server_side\BL\obj\Debug\BL.dll
+E:\21.07\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\BL\obj\Debug\BL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\BL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\BL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\DAL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\DTO.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\DAL.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\bin\Debug\DTO.pdb
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\obj\Debug\BL.dll
+Y:\angular\etig\project\angular\01.07\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\tichnut\project\02.09\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות\project\הפרויקטטט\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\tichnut\project\JoBest-server_side\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\BL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\BL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\DTO.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\bin\Debug\DTO.pdb
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\obj\Debug\BL.dll
+C:\Users\user1\Documents\תכנות\פרויקט רבקהלה ואתי\JoBest-server_side\BL\obj\Debug\BL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\BL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\BL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\DAL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\DTO.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\DAL.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\DAL.dll.config
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\bin\Debug\DTO.pdb
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\obj\Debug\BL.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\obj\Debug\BL.dll
+E:\‏‏תיקיה חדשה (2)\JoBest-server_side\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\exelence\exelence-server_side\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exelence\exelence-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exelence\exelence-server_side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\exelence\exelence-server_side\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\אתי ג\exelence-server_side\BL\obj\Debug\BL.pdb
+E:\exelence-server_side\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\exelence-server_side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\exelence-server_side\BL\obj\Debug\BL.dll
+E:\exelence-server_side\BL\obj\Debug\BL.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DevelopmentTaskModelStoreContainer" CdmEntityContainer="DevelopmentTaskEntities">
+    <EntitySetMapping Name="cities">
+      <EntityTypeMapping TypeName="DevelopmentTaskModel.cities">
+        <MappingFragment StoreEntitySet="cities">
+          <ScalarProperty Name="city_code" ColumnName="city_code" />
+          <ScalarProperty Name="city_name" ColumnName="city_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="clients">
+      <EntityTypeMapping TypeName="DevelopmentTaskModel.clients">
+        <MappingFragment StoreEntitySet="clients">
+          <ScalarProperty Name="clientId" ColumnName="clientId" />
+          <ScalarProperty Name="hebrew_name" ColumnName="hebrew_name" />
+          <ScalarProperty Name="english_name" ColumnName="english_name" />
+          <ScalarProperty Name="tz" ColumnName="tz" />
+          <ScalarProperty Name="born_date" ColumnName="born_date" />
+          <ScalarProperty Name="cityId" ColumnName="cityId" />
+          <ScalarProperty Name="bank" ColumnName="bank" />
+          <ScalarProperty Name="branch" ColumnName="branch" />
+          <ScalarProperty Name="account_number" ColumnName="account_number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_joBestModel2StoreContainer" CdmEntityContainer="db_joBestEntities1">
+    <EntitySetMapping Name="Domains">
+      <EntityTypeMapping TypeName="db_joBestModel2.Domains">
+        <MappingFragment StoreEntitySet="Domains">
+          <ScalarProperty Name="IdDomain" ColumnName="IdDomain" />
+          <ScalarProperty Name="NameDomain" ColumnName="NameDomain" />
+          <ScalarProperty Name="IdDomainParent" ColumnName="IdDomainParent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DomainsToWorker">
+      <EntityTypeMapping TypeName="db_joBestModel2.DomainsToWorker">
+        <MappingFragment StoreEntitySet="DomainsToWorker">
+          <ScalarProperty Name="IdDomainToWorker" ColumnName="IdDomainToWorker" />
+          <ScalarProperty Name="IdWorker" ColumnName="IdWorker" />
+          <ScalarProperty Name="IdDomain" ColumnName="IdDomain" />
+          <ScalarProperty Name="ScopeJob" ColumnName="ScopeJob" />
+          <ScalarProperty Name="Education" ColumnName="Education" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+          <ScalarProperty Name="CVFile" ColumnName="CVFile" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employers">
+      <EntityTypeMapping TypeName="db_joBestModel2.Employers">
+        <MappingFragment StoreEntitySet="Employers">
+          <ScalarProperty Name="IdEmployer" ColumnName="IdEmployer" />
+          <ScalarProperty Name="NameBussines" ColumnName="NameBussines" />
+          <ScalarProperty Name="IdConfirmation" ColumnName="IdConfirmation" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="AuthorziedDealer" ColumnName="AuthorziedDealer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmployerTestAnswers">
+      <EntityTypeMapping TypeName="db_joBestModel2.EmployerTestAnswers">
+        <MappingFragment StoreEntitySet="EmployerTestAnswers">
+          <ScalarProperty Name="IdAnswers" ColumnName="IdAnswers" />
+          <ScalarProperty Name="IdQuestion" ColumnName="IdQuestion" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="IsAnswer" ColumnName="IsAnswer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmployerTestQuestion">
+      <EntityTypeMapping TypeName="db_joBestModel2.EmployerTestQuestion">
+        <MappingFragment StoreEntitySet="EmployerTestQuestion">
+          <ScalarProperty Name="IdQuestion" ColumnName="IdQuestion" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="IdEmployerTest" ColumnName="IdEmployerTest" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmployerTests">
+      <EntityTypeMapping TypeName="db_joBestModel2.EmployerTests">
+        <MappingFragment StoreEntitySet="EmployerTests">
+          <ScalarProperty Name="IdEmployerTest" ColumnName="IdEmployerTest" />
+          <ScalarProperty Name="IdEmployer" ColumnName="IdEmployer" />
+          <ScalarProperty Name="NameTest" ColumnName="NameTest" />
+          <ScalarProperty Name="IdDomain" ColumnName="IdDomain" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Positions">
+      <EntityTypeMapping TypeName="db_joBestModel2.Positions">
+        <MappingFragment StoreEntitySet="Positions">
+          <ScalarProperty Name="IdPositions" ColumnName="IdPositions" />
+          <ScalarProperty Name="IdEmployer" ColumnName="IdEmployer" />
+          <ScalarProperty Name="NamePosition" ColumnName="NamePosition" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Relevant" ColumnName="Relevant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PsicometryAnswers">
+      <EntityTypeMapping TypeName="db_joBestModel2.PsicometryAnswers">
+        <MappingFragment StoreEntitySet="PsicometryAnswers">
+          <ScalarProperty Name="IdAnswers" ColumnName="IdAnswers" />
+          <ScalarProperty Name="IdQuestion" ColumnName="IdQuestion" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="IsAnswer" ColumnName="IsAnswer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PsicometryQuestion">
+      <EntityTypeMapping TypeName="db_joBestModel2.PsicometryQuestion">
+        <MappingFragment StoreEntitySet="PsicometryQuestion">
+          <ScalarProperty Name="IdQuestion" ColumnName="IdQuestion" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PsicometryTest">
+      <EntityTypeMapping TypeName="db_joBestModel2.PsicometryTest">
+        <MappingFragment StoreEntitySet="PsicometryTest">
+          <ScalarProperty Name="IdPsicometryTest" ColumnName="IdPsicometryTest" />
+          <ScalarProperty Name="IdWorker" ColumnName="IdWorker" />
+          <ScalarProperty Name="Mark" ColumnName="Mark" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Step">
+      <EntityTypeMapping TypeName="db_joBestModel2.Step">
+        <MappingFragment StoreEntitySet="Step">
+          <ScalarProperty Name="IdStep" ColumnName="IdStep" />
+          <ScalarProperty Name="IdEmployer" ColumnName="IdEmployer" />
+          <ScalarProperty Name="IdWorker" ColumnName="IdWorker" />
+          <ScalarProperty Name="IdPosition" ColumnName="IdPosition" />
+          <ScalarProperty Name="Step1" ColumnName="Step" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="SummaryStep" ColumnName="SummaryStep" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Worker">
+      <EntityTypeMapping TypeName="db_joBestModel2.Worker">
+        <MappingFragment StoreEntitySet="Worker">
+          <ScalarProperty Name="IdWorker" ColumnName="IdWorker" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="DateBorn" ColumnName="DateBorn" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="DateRegistration" ColumnName="DateRegistration" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkerSuitable">
+      <EntityTypeMapping TypeName="db_joBestModel2.WorkerSuitable">
+        <MappingFragment StoreEntitySet="WorkerSuitable">
+          <ScalarProperty Name="IdSuitable" ColumnName="IdSuitable" />
+          <ScalarProperty Name="IdWorker" ColumnName="IdWorker" />
+          <ScalarProperty Name="IdPosition" ColumnName="IdPosition" />
+          <ScalarProperty Name="IsRelevant" ColumnName="IsRelevant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkerTest">
+      <EntityTypeMapping TypeName="db_joBestModel2.WorkerTest">
+        <MappingFragment StoreEntitySet="WorkerTest">
+          <ScalarProperty Name="IdWorkerTest" ColumnName="IdWorkerTest" />
+          <ScalarProperty Name="IdWorker" ColumnName="IdWorker" />
+          <ScalarProperty Name="IdEmployerTest" ColumnName="IdEmployerTest" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Mark" ColumnName="Mark" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL.Domains" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAEAAAA=</HashCode>
+      <FileName>Domains.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DomainsToWorker" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkABAAAAAAAEAAAAAAAAAAAAAAABAAAAAgQCAAQAA=</HashCode>
+      <FileName>DomainsToWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Employers" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAQAAAAABAAAAAiIQAAIwAAAAA=</HashCode>
+      <FileName>Employers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.EmployerTestAnswers" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAQAAAABAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>EmployerTestAnswers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.EmployerTestQuestion" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAIAABAAAAAAAAAEAAAAIAAAAAA=</HashCode>
+      <FileName>EmployerTestQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.EmployerTests" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAgAAIAAAAgABAAABAAAAAAAECAAQA=</HashCode>
+      <FileName>EmployerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Positions" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAgAACAQAIAAQAAABAAAAABIAAAIAAAAAA=</HashCode>
+      <FileName>Positions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.PsicometryAnswers" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAQAAAABAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>PsicometryAnswers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.PsicometryQuestion" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIABAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>PsicometryQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.PsicometryTest" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAAAAAAAAAQAAAAAAAAAABAACAAAAAAAA=</HashCode>
+      <FileName>PsicometryTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Worker" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAAAAAEAAAEAQAQAAAAAAAAACIQAAQUEBAIg=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.WorkerSuitable" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAABAAAAAAgAQAAIACAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkerSuitable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.WorkerTest" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAIAIQAAAAAAAAABAACAAAAAAAA=</HashCode>
+      <FileName>WorkerTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
